@@ -26,17 +26,32 @@ namespace PamerYukFormsApp.Prototype
             labelTeman.Text = this.temanChat.Username;
             listBoxListChat.DataSource = FormUtama.service.Buka_Chat(this.temanChat.Username); //Dari Database
 
+            dataGridViewDaftarTeman.DataSource = FormUtama.service.ListTeman;
+            if (dataGridViewDaftarTeman.Columns.Count == 3)
+            {
+                DataGridViewButtonColumn buttonLihatChat = new DataGridViewButtonColumn();
+                buttonLihatChat.Text = "Lihat Chat";
+                buttonLihatChat.HeaderText = "Chat";
+                buttonLihatChat.UseColumnTextForButtonValue = true;
+                buttonLihatChat.Name = "buttonLihatChat";
+                dataGridViewDaftarTeman.Columns.Add(buttonLihatChat);
+            }
 
-            //Agar chat terbaru selalu dibawah dan terlihat
+            /*//Agar chat terbaru selalu dibawah dan terlihat
             int visibleItems = listBoxListChat.ClientSize.Height / listBoxListChat.ItemHeight;
-            listBoxListChat.TopIndex = Math.Max(listBoxListChat.Items.Count - visibleItems + 1, 0);
-        }
+            listBoxListChat.TopIndex = Math.Max(listBoxListChat.Items.Count - visibleItems + 1, 0);*/
+        }        
 
-        private void buttonKirim_Click(object sender, EventArgs e)
+        private void dataGridViewDaftarTeman_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            string message = textBoxPesan.Text;
-            Chat newChat = new Chat(message, this.temanChat.Username, FormUtama.service.Current_user.Username);
-            FormPercakapan_Load(sender, e);
+            if (e.ColumnIndex == dataGridViewDaftarTeman.Columns["buttonLihatChat"].Index)
+            {
+                string username = dataGridViewDaftarTeman.CurrentRow.Cells["username"].Value.ToString();               
+                FormDetailPercakapan frm = new FormDetailPercakapan();
+                frm.namaTeman = username;
+                frm.Owner = this;
+                frm.ShowDialog();
+            }            
         }
     }
 }

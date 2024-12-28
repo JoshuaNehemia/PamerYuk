@@ -60,3 +60,5 @@ E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\Pam
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYuk.DC7583D1.Up2Date
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.exe
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.pdb
+E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype.FormPercakapan.resources
+E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype.FormDetailPercakapan.resources

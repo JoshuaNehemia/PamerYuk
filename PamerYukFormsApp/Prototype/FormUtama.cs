@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using PamerYukFormsApp.Prototype;
+using PamerYukLibrary;
+
 
 //PamerYuk Library
 using PamerYukLibrary.Database;
@@ -170,6 +172,22 @@ namespace PamerYukFormsApp
             if (f == null)
             {
                 FormRequestPertemanan frm = new FormRequestPertemanan();
+                frm.MdiParent = this;
+                frm.Show();
+            }
+            else
+            {
+                f.BringToFront();
+                f.MaximizeBox = true;
+            }
+        }
+
+        private void percakapanSayaToolStripMenuItem_Click(object sender, EventArgs e)
+        {            
+            Form f = Application.OpenForms["FormPercakapan"];
+            if (f == null)
+            {
+                FormPercakapan frm = new FormPercakapan(service.Current_user);
                 frm.MdiParent = this;
                 frm.Show();
             }

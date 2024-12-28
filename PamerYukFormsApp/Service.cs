@@ -213,9 +213,9 @@ namespace PamerYukFormsApp
 
         #region CHAT
 
-        public List<Chat> Buka_Chat(string username)
+        public List<Chat> Buka_Chat(string pengirim)
         {
-            return DAO_Chat.Select_Chat(username, this.Current_user.Username);
+            return DAO_Chat.Select_Chat(pengirim, this.Current_user.Username);
         }
 
         public void Kirim_Chat(Chat chat)
