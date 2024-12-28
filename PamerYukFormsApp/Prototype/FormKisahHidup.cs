@@ -28,12 +28,23 @@ namespace PamerYukFormsApp.Prototype
 
         private void buttonInput_Click(object sender, EventArgs e)
         {
-            Organisasi selected_organisasi = (Organisasi)comboBoxOrganisasi.SelectedItem;
-            string deskripsi = textBoxDeskripsi.Text;
-            int tahun_awal = (int)numericUpDownTahunAwal.Value;
-            int tahun_akhir = (int)numericUpDownTahunAkhir.Value;
-            KisahHidup inputKisah = new KisahHidup (selected_organisasi,tahun_awal, tahun_akhir,deskripsi);
-            FormUtama.service.Tambah_KisahHidup(inputKisah);
+            try
+            {
+                Organisasi selected_organisasi = (Organisasi)comboBoxOrganisasi.SelectedItem;
+                string deskripsi = textBoxDeskripsi.Text;
+                int tahun_awal = (int)numericUpDownTahunAwal.Value;
+                int tahun_akhir = (int)numericUpDownTahunAkhir.Value;
+                KisahHidup inputKisah = new KisahHidup(selected_organisasi, tahun_awal, tahun_akhir, deskripsi);
+                FormUtama.service.Tambah_KisahHidup(inputKisah);
+
+                MessageBox.Show("Berhasil membuat kisah hidup");
+
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            
         }
 
         private void FormKisahHidup_Load(object sender, EventArgs e)

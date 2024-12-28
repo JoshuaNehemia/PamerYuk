@@ -1,122 +1,142 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\",
+  "WorkspaceRootPath": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|e:\\ubaya\\semester 3\\database\\project uas\\pameryuk\\pameryukformsapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\dao\\dao_konten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\dao\\dao_konten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\dao\\dao_konten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|c:\\users\\joshu\\source\\repos\\pameryukformsapp\\pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\entity\\konten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\entity\\konten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\entity\\kota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\entity\\kota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formtambahorganisasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formtambahorganisasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formkisahhidup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formkisahhidup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formdaftarteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftarteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formdaftar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formdaftar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formakunteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formakunteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formdaftar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formtambahkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\dao\\dao_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftarkonten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formkisahhidup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formkisahhidup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formtambahorganisasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formtambahorganisasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\entity\\kota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\entity\\kota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\dao\\dao_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\dao\\dao_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\dao\\dao_kota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\repositories\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\repositories\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formutama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\entity\\konten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\entity\\konten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formmasuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formdaftarteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftarteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formakunteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formakunteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\dao\\dao_kota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\dao\\dao_kota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\dao\\dao_organisasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\dao\\dao_organisasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\dao\\dao_organisasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\dao\\dao_komen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\dao\\dao_komen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\dao\\dao_komen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\entity\\komen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\entity\\komen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\entity\\komen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formdaftarteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formdaftarteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formdaftarteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryukformsapp\\prototype\\formakunteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryukformsapp\\prototype\\formakunteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F027A04C-8BD0-49E6-BCF1-0E29B55208A4}|PamerYukFormsApp\\PamerYukFormsApp.csproj|solutionrelative:pameryukformsapp\\prototype\\formakunteman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\dao\\dao_teman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\pameryuklibrary\\dao\\dao_teman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\dao\\dao_teman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\pameryuklibrary\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3340F94C-97CE-4363-9111-B5A8516B31FB}|PamerYukLibrary\\PamerYukLibrary.csproj|solutionrelative:pameryuklibrary\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,110 +150,181 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormTambahKonten.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs [Design]",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "DAO_Konten.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Konten.cs",
+              "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Konten.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Konten.cs",
+              "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Konten.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:49:36.238Z",
-              "IsPinned": true
+              "WhenOpened": "2024-12-22T11:26:53.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Service.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Service.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Service.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Service.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Service.cs",
               "RelativeToolTip": "PamerYukFormsApp\\Service.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAIwJoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv5wAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T12:09:48.471Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormKonten.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormKonten.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormKonten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormKonten.cs [Design]",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormKonten.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:05:11.94Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormKonten.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormKonten.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormKonten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormKonten.cs",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormKonten.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAvwBoAAAAMAAAAAAAAAA==",
+              "Title": "FormDaftar.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftar.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftar.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftar.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftar.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCIAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:05:26.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T14:12:12.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DAO_Konten.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Konten.cs",
-              "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Konten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Konten.cs",
-              "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Konten.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAADBAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FormKonten.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormKonten.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormKonten.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormKonten.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormKonten.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:45:58.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T12:05:26.617Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FormDaftarKonten.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAEwDEAAAAJAAAAAAAAAA==",
+              "Title": "FormTambahKonten.cs [Design]",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs [Design]",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:17:01.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T02:49:36.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAkun.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormAkun.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormAkun.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormAkun.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormAkun.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:12:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDaftar.cs [Design]",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftar.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftar.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftar.cs [Design]",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:32:53.744Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FormDaftarKonten.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
+              "Title": "FormTambahKonten.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:49:38.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormKonten.cs [Design]",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormKonten.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormKonten.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormKonten.cs [Design]",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormKonten.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:05:11.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDaftarKonten.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs [Design]",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAEwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:17:01.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormDaftarKonten.cs [Design]",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs [Design]",
               "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftarKonten.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T12:17:00.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Konten.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\Konten.cs",
-              "RelativeDocumentMoniker": "PamerYukLibrary\\Entity\\Konten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\Konten.cs",
-              "RelativeToolTip": "PamerYukLibrary\\Entity\\Konten.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCMAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "FormKisahHidup.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:50:07.036Z"
+              "WhenOpened": "2024-11-22T09:19:39.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
+              "Title": "FormTambahOrganisasi.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:12:28.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "PamerYukLibrary\\Entity\\User.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\User.cs",
+              "RelativeToolTip": "PamerYukLibrary\\Entity\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:50:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Kota.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\Kota.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\Kota.cs",
               "RelativeDocumentMoniker": "PamerYukLibrary\\Entity\\Kota.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\Kota.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\Kota.cs",
               "RelativeToolTip": "PamerYukLibrary\\Entity\\Kota.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -241,47 +332,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormKisahHidup.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormKisahHidup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "FormMasuk.cs [Design]",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormMasuk.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormMasuk.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormMasuk.cs [Design]",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormMasuk.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T09:19:39.245Z"
+              "WhenOpened": "2024-12-22T03:29:11.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FormUtama.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormUtama.cs",
+              "DocumentIndex": 13,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Properties\\Resources.Designer.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "PamerYukFormsApp\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:21:57.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DAO_Users.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Users.cs",
+              "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Users.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Users.cs",
+              "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Users.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAewDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:51:46.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAkun.cs [Design]",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormAkun.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormAkun.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormAkun.cs [Design]",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormAkun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:56:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Repositories\\Repositories.cs",
+              "RelativeDocumentMoniker": "PamerYukLibrary\\Repositories\\Repositories.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Repositories\\Repositories.cs",
+              "RelativeToolTip": "PamerYukLibrary\\Repositories\\Repositories.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:03:01.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormUtama.cs [Design]",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormUtama.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormUtama.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormUtama.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormUtama.cs [Design]",
+              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormUtama.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:16:06.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormUtama.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormUtama.cs",
+              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormUtama.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormUtama.cs",
               "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormUtama.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAKAAAAAAAAAAAADgv1MAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T12:16:07.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormTambahOrganisasi.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormTambahOrganisasi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "Konten.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\Konten.cs",
+              "RelativeDocumentMoniker": "PamerYukLibrary\\Entity\\Konten.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\Konten.cs",
+              "RelativeToolTip": "PamerYukLibrary\\Entity\\Konten.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:12:28.321Z"
+              "WhenOpened": "2024-12-16T11:50:07.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "FormMasuk.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormMasuk.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormMasuk.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormMasuk.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormMasuk.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormMasuk.cs",
               "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormMasuk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,23 +437,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormTambahKonten.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormTambahKonten.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T02:49:38.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "FormDaftarTeman.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
               "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,23 +449,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FormDaftar.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftar.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftar.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftar.cs",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:12:12.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "FormAkunTeman.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
               "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,23 +461,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FormAkun.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormAkun.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormAkun.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormAkun.cs",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormAkun.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T14:12:20.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "FormTeman.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTeman.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTeman.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormTeman.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormTeman.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormTeman.cs",
               "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormTeman.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAApwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,34 +473,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DAO_Users.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Users.cs",
-              "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Users.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Users.cs",
-              "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Users.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwGoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:51:46.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FormUtama.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormUtama.cs",
-              "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormUtama.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormUtama.cs [Design]",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormUtama.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T12:16:06.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "DAO_Organisasi.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Organisasi.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Organisasi.cs",
               "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Organisasi.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Organisasi.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Organisasi.cs",
               "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Organisasi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +485,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "DAO_Kota.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Kota.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Kota.cs",
               "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Kota.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Kota.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Kota.cs",
               "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Kota.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,11 +497,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "DAO_Komen.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Komen.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Komen.cs",
               "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Komen.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Komen.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Komen.cs",
               "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Komen.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAswCMAAADeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -420,11 +509,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Komen.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\Komen.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\Komen.cs",
               "RelativeDocumentMoniker": "PamerYukLibrary\\Entity\\Komen.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\Komen.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\Entity\\Komen.cs",
               "RelativeToolTip": "PamerYukLibrary\\Entity\\Komen.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -432,22 +521,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "FormDaftarTeman.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs",
               "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs [Design]",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormDaftarTeman.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T12:17:07.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "DAO_Teman.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Teman.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Teman.cs",
               "RelativeDocumentMoniker": "PamerYukLibrary\\DAO\\DAO_Teman.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\DAO\\DAO_Teman.cs",
+              "ToolTip": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukLibrary\\DAO\\DAO_Teman.cs",
               "RelativeToolTip": "PamerYukLibrary\\DAO\\DAO_Teman.cs",
               "ViewState": "AgIAABIAAAAAAAAAAADgvxYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,26 +543,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "FormAkunTeman.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
+              "DocumentMoniker": "E:\\UBAYA\\Semester 3\\Database\\PROJECT UAS\\PamerYuk\\PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
               "RelativeDocumentMoniker": "PamerYukFormsApp\\Prototype\\FormAkunTeman.cs",
               "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukFormsApp\\Prototype\\FormAkunTeman.cs [Design]",
-              "RelativeToolTip": "PamerYukFormsApp\\Prototype\\FormAkunTeman.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T13:50:42.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\User.cs",
-              "RelativeDocumentMoniker": "PamerYukLibrary\\Entity\\User.cs",
-              "ToolTip": "C:\\Users\\joshu\\source\\repos\\PamerYukFormsApp\\PamerYukLibrary\\Entity\\User.cs",
-              "RelativeToolTip": "PamerYukLibrary\\Entity\\User.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAywD4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T11:50:21.413Z"
             }
           ]
         }

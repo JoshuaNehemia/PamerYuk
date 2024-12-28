@@ -10,6 +10,7 @@ using System.Diagnostics.Eventing.Reader;
 using System.IO;
 using System.Windows.Forms;
 using System.Drawing;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Window;
 
 namespace PamerYukFormsApp
 {
@@ -57,10 +58,10 @@ namespace PamerYukFormsApp
 
         public User Daftar(string username, string password, DateTime tglLahir, string noKTP, string foto, Kota kota)
         {
-            User new_user = new User(username, password, tglLahir, noKTP, foto, kota);
+            User new_user = new User(username, password, tglLahir, noKTP, foto, kota);                       
             DAO_Users.User_Daftar(username, password, tglLahir, noKTP, foto, kota);
             return new_user;
-        }
+        }        
 
         #endregion
 
