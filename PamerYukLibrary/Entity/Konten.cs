@@ -16,6 +16,7 @@ namespace PamerYukLibrary
         private string video;
         private DateTime tglUpload;
         private List<User> tag;
+        private List<User> like;
         private List<Komen> comment;
 
         public Konten(int id, string caption, string foto, string video, DateTime tglUpload)
@@ -27,13 +28,15 @@ namespace PamerYukLibrary
             this.TglUpload = tglUpload;
             this.Comment = DAO_Komen.Select_Komen(this.Id);
             this.Tag = DAO_Tag.Select_Tag(this.Id);
+            this.Like = DAO_Like.Select_Like(this.Id);
         }
-        public Konten( string caption, string foto, string video, DateTime tglUpload) //New Konten
+        public Konten( string caption, string foto, string video, DateTime tglUpload,List<User> tag) //New Konten
         {
             this.Caption = caption;
             this.Foto = foto;
             this.Video = video;
             this.TglUpload = tglUpload;
+            this.Tag = tag;
         }
 
         public int Id { get => id; set => id = value; }
@@ -42,6 +45,7 @@ namespace PamerYukLibrary
         public string Video { get => video; set => video = value; }
         public DateTime TglUpload { get => tglUpload; set => tglUpload = value; }
         public List<User> Tag { get => tag; set => tag = value; }
+        public List<User> Like { get=>like; set => like = value; }
         public List<Komen> Comment { get => comment; set => comment = value; }
     }
 }

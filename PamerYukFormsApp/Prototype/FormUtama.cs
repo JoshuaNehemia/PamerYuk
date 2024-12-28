@@ -153,7 +153,7 @@ namespace PamerYukFormsApp
             Form f = Application.OpenForms["FormDaftarTeman"];
             if (f == null)
             {
-                FormDaftarTeman frm = new FormDaftarTeman();
+                FormDaftarTeman frm = new FormDaftarTeman(false);
                 frm.MdiParent = this;
                 frm.Show();
             }

@@ -46,16 +46,14 @@
             this.buttonUbah = new System.Windows.Forms.Button();
             this.panelFotoProfil = new System.Windows.Forms.Panel();
             this.labelFormAkun = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.buttonRefresh = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonEditProfil
             // 
-            this.buttonEditProfil.Location = new System.Drawing.Point(796, 528);
-            this.buttonEditProfil.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonEditProfil.Location = new System.Drawing.Point(1664, 924);
+            this.buttonEditProfil.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonEditProfil.Name = "buttonEditProfil";
-            this.buttonEditProfil.Size = new System.Drawing.Size(106, 31);
+            this.buttonEditProfil.Size = new System.Drawing.Size(212, 60);
             this.buttonEditProfil.TabIndex = 98;
             this.buttonEditProfil.Text = "Edit Profil";
             this.buttonEditProfil.UseVisualStyleBackColor = true;
@@ -64,81 +62,81 @@
             // listBoxKisahHidup
             // 
             this.listBoxKisahHidup.FormattingEnabled = true;
-            this.listBoxKisahHidup.ItemHeight = 16;
-            this.listBoxKisahHidup.Location = new System.Drawing.Point(428, 394);
-            this.listBoxKisahHidup.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.listBoxKisahHidup.ItemHeight = 31;
+            this.listBoxKisahHidup.Location = new System.Drawing.Point(856, 763);
+            this.listBoxKisahHidup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.listBoxKisahHidup.Name = "listBoxKisahHidup";
-            this.listBoxKisahHidup.Size = new System.Drawing.Size(402, 116);
+            this.listBoxKisahHidup.Size = new System.Drawing.Size(800, 221);
             this.listBoxKisahHidup.TabIndex = 97;
             // 
             // labelKisahHidup
             // 
             this.labelKisahHidup.AutoSize = true;
             this.labelKisahHidup.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelKisahHidup.Location = new System.Drawing.Point(232, 394);
-            this.labelKisahHidup.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelKisahHidup.Location = new System.Drawing.Point(464, 763);
+            this.labelKisahHidup.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelKisahHidup.Name = "labelKisahHidup";
-            this.labelKisahHidup.Size = new System.Drawing.Size(161, 29);
+            this.labelKisahHidup.Size = new System.Drawing.Size(311, 54);
             this.labelKisahHidup.TabIndex = 96;
             this.labelKisahHidup.Text = "Kisah Hidup : ";
             // 
             // textBoxTanggalLahir
             // 
             this.textBoxTanggalLahir.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.textBoxTanggalLahir.Location = new System.Drawing.Point(422, 346);
-            this.textBoxTanggalLahir.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBoxTanggalLahir.Location = new System.Drawing.Point(844, 670);
+            this.textBoxTanggalLahir.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.textBoxTanggalLahir.Name = "textBoxTanggalLahir";
-            this.textBoxTanggalLahir.Size = new System.Drawing.Size(402, 34);
+            this.textBoxTanggalLahir.Size = new System.Drawing.Size(800, 60);
             this.textBoxTanggalLahir.TabIndex = 95;
             // 
             // labelTanggalLahir
             // 
             this.labelTanggalLahir.AutoSize = true;
             this.labelTanggalLahir.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelTanggalLahir.Location = new System.Drawing.Point(232, 346);
-            this.labelTanggalLahir.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelTanggalLahir.Location = new System.Drawing.Point(464, 670);
+            this.labelTanggalLahir.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelTanggalLahir.Name = "labelTanggalLahir";
-            this.labelTanggalLahir.Size = new System.Drawing.Size(179, 29);
+            this.labelTanggalLahir.Size = new System.Drawing.Size(345, 54);
             this.labelTanggalLahir.TabIndex = 94;
             this.labelTanggalLahir.Text = "Tanggal Lahir : ";
             // 
             // textBoxKota
             // 
             this.textBoxKota.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.textBoxKota.Location = new System.Drawing.Point(422, 298);
-            this.textBoxKota.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBoxKota.Location = new System.Drawing.Point(844, 577);
+            this.textBoxKota.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.textBoxKota.Name = "textBoxKota";
-            this.textBoxKota.Size = new System.Drawing.Size(402, 34);
+            this.textBoxKota.Size = new System.Drawing.Size(800, 60);
             this.textBoxKota.TabIndex = 93;
             // 
             // labelKota
             // 
             this.labelKota.AutoSize = true;
             this.labelKota.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelKota.Location = new System.Drawing.Point(232, 298);
-            this.labelKota.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelKota.Location = new System.Drawing.Point(464, 577);
+            this.labelKota.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelKota.Name = "labelKota";
-            this.labelKota.Size = new System.Drawing.Size(80, 29);
+            this.labelKota.Size = new System.Drawing.Size(156, 54);
             this.labelKota.TabIndex = 92;
             this.labelKota.Text = "Kota : ";
             // 
             // textBoxNoKTP
             // 
             this.textBoxNoKTP.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.textBoxNoKTP.Location = new System.Drawing.Point(422, 253);
-            this.textBoxNoKTP.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBoxNoKTP.Location = new System.Drawing.Point(844, 490);
+            this.textBoxNoKTP.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.textBoxNoKTP.Name = "textBoxNoKTP";
-            this.textBoxNoKTP.Size = new System.Drawing.Size(402, 34);
+            this.textBoxNoKTP.Size = new System.Drawing.Size(800, 60);
             this.textBoxNoKTP.TabIndex = 91;
             // 
             // labelNoKTP
             // 
             this.labelNoKTP.AutoSize = true;
             this.labelNoKTP.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelNoKTP.Location = new System.Drawing.Point(232, 253);
-            this.labelNoKTP.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelNoKTP.Location = new System.Drawing.Point(464, 490);
+            this.labelNoKTP.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelNoKTP.Name = "labelNoKTP";
-            this.labelNoKTP.Size = new System.Drawing.Size(117, 29);
+            this.labelNoKTP.Size = new System.Drawing.Size(223, 54);
             this.labelNoKTP.TabIndex = 90;
             this.labelNoKTP.Text = "No KTP : ";
             // 
@@ -146,120 +144,97 @@
             // 
             this.labelNama.AutoSize = true;
             this.labelNama.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelNama.Location = new System.Drawing.Point(232, 203);
-            this.labelNama.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelNama.Location = new System.Drawing.Point(464, 393);
+            this.labelNama.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelNama.Name = "labelNama";
-            this.labelNama.Size = new System.Drawing.Size(95, 29);
+            this.labelNama.Size = new System.Drawing.Size(185, 54);
             this.labelNama.TabIndex = 89;
             this.labelNama.Text = "Nama : ";
             // 
             // textBoxNama
             // 
             this.textBoxNama.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.textBoxNama.Location = new System.Drawing.Point(422, 203);
-            this.textBoxNama.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBoxNama.Location = new System.Drawing.Point(844, 393);
+            this.textBoxNama.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.textBoxNama.Name = "textBoxNama";
-            this.textBoxNama.Size = new System.Drawing.Size(402, 34);
+            this.textBoxNama.Size = new System.Drawing.Size(800, 60);
             this.textBoxNama.TabIndex = 88;
             // 
             // labelEmail
             // 
             this.labelEmail.AutoSize = true;
             this.labelEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelEmail.Location = new System.Drawing.Point(232, 152);
-            this.labelEmail.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelEmail.Location = new System.Drawing.Point(464, 294);
+            this.labelEmail.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelEmail.Name = "labelEmail";
-            this.labelEmail.Size = new System.Drawing.Size(92, 29);
+            this.labelEmail.Size = new System.Drawing.Size(176, 54);
             this.labelEmail.TabIndex = 87;
             this.labelEmail.Text = "Email : ";
             // 
             // textBoxEmail
             // 
             this.textBoxEmail.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.textBoxEmail.Location = new System.Drawing.Point(422, 150);
-            this.textBoxEmail.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBoxEmail.Location = new System.Drawing.Point(844, 291);
+            this.textBoxEmail.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.textBoxEmail.Name = "textBoxEmail";
-            this.textBoxEmail.Size = new System.Drawing.Size(402, 34);
+            this.textBoxEmail.Size = new System.Drawing.Size(800, 60);
             this.textBoxEmail.TabIndex = 86;
             // 
             // labelUsername
             // 
             this.labelUsername.AutoSize = true;
             this.labelUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelUsername.Location = new System.Drawing.Point(232, 100);
-            this.labelUsername.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelUsername.Location = new System.Drawing.Point(464, 194);
+            this.labelUsername.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelUsername.Name = "labelUsername";
-            this.labelUsername.Size = new System.Drawing.Size(142, 29);
+            this.labelUsername.Size = new System.Drawing.Size(277, 54);
             this.labelUsername.TabIndex = 85;
             this.labelUsername.Text = "Username : ";
             // 
             // textBoxUsername
             // 
             this.textBoxUsername.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.textBoxUsername.Location = new System.Drawing.Point(422, 100);
-            this.textBoxUsername.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.textBoxUsername.Location = new System.Drawing.Point(844, 194);
+            this.textBoxUsername.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.textBoxUsername.Name = "textBoxUsername";
-            this.textBoxUsername.Size = new System.Drawing.Size(402, 34);
+            this.textBoxUsername.Size = new System.Drawing.Size(800, 60);
             this.textBoxUsername.TabIndex = 84;
             // 
             // buttonUbah
             // 
-            this.buttonUbah.Location = new System.Drawing.Point(54, 278);
-            this.buttonUbah.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonUbah.Location = new System.Drawing.Point(108, 539);
+            this.buttonUbah.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonUbah.Name = "buttonUbah";
-            this.buttonUbah.Size = new System.Drawing.Size(72, 29);
+            this.buttonUbah.Size = new System.Drawing.Size(144, 56);
             this.buttonUbah.TabIndex = 83;
             this.buttonUbah.Text = "Ubah";
             this.buttonUbah.UseVisualStyleBackColor = true;
             // 
             // panelFotoProfil
             // 
-            this.panelFotoProfil.Location = new System.Drawing.Point(54, 100);
-            this.panelFotoProfil.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.panelFotoProfil.Location = new System.Drawing.Point(108, 194);
+            this.panelFotoProfil.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.panelFotoProfil.Name = "panelFotoProfil";
-            this.panelFotoProfil.Size = new System.Drawing.Size(150, 155);
+            this.panelFotoProfil.Size = new System.Drawing.Size(300, 300);
             this.panelFotoProfil.TabIndex = 82;
             // 
             // labelFormAkun
             // 
             this.labelFormAkun.AutoSize = true;
             this.labelFormAkun.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F, System.Drawing.FontStyle.Bold);
-            this.labelFormAkun.Location = new System.Drawing.Point(330, 14);
-            this.labelFormAkun.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelFormAkun.Location = new System.Drawing.Point(660, 27);
+            this.labelFormAkun.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelFormAkun.Name = "labelFormAkun";
-            this.labelFormAkun.Size = new System.Drawing.Size(296, 63);
+            this.labelFormAkun.Size = new System.Drawing.Size(577, 120);
             this.labelFormAkun.TabIndex = 81;
             this.labelFormAkun.Text = "Akun Saya";
             this.labelFormAkun.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(830, 305);
-            this.button1.Margin = new System.Windows.Forms.Padding(2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(72, 29);
-            this.button1.TabIndex = 99;
-            this.button1.Text = "Ubah";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // buttonRefresh
-            // 
-            this.buttonRefresh.Location = new System.Drawing.Point(844, 48);
-            this.buttonRefresh.Margin = new System.Windows.Forms.Padding(2);
-            this.buttonRefresh.Name = "buttonRefresh";
-            this.buttonRefresh.Size = new System.Drawing.Size(72, 29);
-            this.buttonRefresh.TabIndex = 100;
-            this.buttonRefresh.Text = "Ubah";
-            this.buttonRefresh.UseVisualStyleBackColor = true;
-            this.buttonRefresh.Click += new System.EventHandler(this.buttonRefresh_Click);
-            // 
             // FormAkun
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(944, 545);
-            this.Controls.Add(this.buttonRefresh);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(1888, 1056);
             this.Controls.Add(this.buttonEditProfil);
             this.Controls.Add(this.listBoxKisahHidup);
             this.Controls.Add(this.labelKisahHidup);
@@ -278,7 +253,7 @@
             this.Controls.Add(this.buttonUbah);
             this.Controls.Add(this.panelFotoProfil);
             this.Controls.Add(this.labelFormAkun);
-            this.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
+            this.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.Name = "FormAkun";
             this.Text = "FormAkun";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -308,7 +283,5 @@
         private System.Windows.Forms.Button buttonUbah;
         private System.Windows.Forms.Panel panelFotoProfil;
         private System.Windows.Forms.Label labelFormAkun;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button buttonRefresh;
     }
 }

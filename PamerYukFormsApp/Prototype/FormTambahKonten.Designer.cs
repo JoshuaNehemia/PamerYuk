@@ -28,21 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormTambahKonten));
             this.buttonGantiGambar = new System.Windows.Forms.Button();
             this.buttonTambah = new System.Windows.Forms.Button();
             this.labelDeskripsi = new System.Windows.Forms.Label();
             this.labelFormTambahKonten = new System.Windows.Forms.Label();
             this.textBoxCaption = new System.Windows.Forms.TextBox();
             this.pictureBoxMedia = new System.Windows.Forms.PictureBox();
-            this.videoPlayer = new AxWMPLib.AxWindowsMediaPlayer();
+            this.buttonTambahTag = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxMedia)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.videoPlayer)).BeginInit();
             this.SuspendLayout();
             // 
             // buttonGantiGambar
             // 
-            this.buttonGantiGambar.Location = new System.Drawing.Point(897, 849);
+            this.buttonGantiGambar.Location = new System.Drawing.Point(893, 849);
             this.buttonGantiGambar.Margin = new System.Windows.Forms.Padding(4);
             this.buttonGantiGambar.Name = "buttonGantiGambar";
             this.buttonGantiGambar.Size = new System.Drawing.Size(207, 82);
@@ -67,7 +65,7 @@
             // 
             this.labelDeskripsi.AutoSize = true;
             this.labelDeskripsi.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.labelDeskripsi.Location = new System.Drawing.Point(904, 553);
+            this.labelDeskripsi.Location = new System.Drawing.Point(895, 111);
             this.labelDeskripsi.Name = "labelDeskripsi";
             this.labelDeskripsi.Size = new System.Drawing.Size(254, 54);
             this.labelDeskripsi.TabIndex = 70;
@@ -88,7 +86,7 @@
             // 
             this.textBoxCaption.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.textBoxCaption.ForeColor = System.Drawing.SystemColors.WindowText;
-            this.textBoxCaption.Location = new System.Drawing.Point(904, 623);
+            this.textBoxCaption.Location = new System.Drawing.Point(904, 195);
             this.textBoxCaption.Multiline = true;
             this.textBoxCaption.Name = "textBoxCaption";
             this.textBoxCaption.Size = new System.Drawing.Size(935, 192);
@@ -102,22 +100,24 @@
             this.pictureBoxMedia.TabIndex = 76;
             this.pictureBoxMedia.TabStop = false;
             // 
-            // videoPlayer
+            // buttonTambahTag
             // 
-            this.videoPlayer.Enabled = true;
-            this.videoPlayer.Location = new System.Drawing.Point(913, 111);
-            this.videoPlayer.MaximumSize = new System.Drawing.Size(800, 800);
-            this.videoPlayer.Name = "videoPlayer";
-            this.videoPlayer.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("videoPlayer.OcxState")));
-            this.videoPlayer.Size = new System.Drawing.Size(800, 428);
-            this.videoPlayer.TabIndex = 77;
+            this.buttonTambahTag.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.buttonTambahTag.Location = new System.Drawing.Point(904, 445);
+            this.buttonTambahTag.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonTambahTag.Name = "buttonTambahTag";
+            this.buttonTambahTag.Size = new System.Drawing.Size(350, 82);
+            this.buttonTambahTag.TabIndex = 78;
+            this.buttonTambahTag.Text = "Tambah Tag";
+            this.buttonTambahTag.UseVisualStyleBackColor = true;
+            this.buttonTambahTag.Click += new System.EventHandler(this.buttonTambahTag_Click);
             // 
             // FormTambahKonten
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1888, 1019);
-            this.Controls.Add(this.videoPlayer);
+            this.Controls.Add(this.buttonTambahTag);
             this.Controls.Add(this.pictureBoxMedia);
             this.Controls.Add(this.textBoxCaption);
             this.Controls.Add(this.buttonGantiGambar);
@@ -130,7 +130,6 @@
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FormTambahKonten_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxMedia)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.videoPlayer)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -143,6 +142,6 @@
         private System.Windows.Forms.Label labelFormTambahKonten;
         private System.Windows.Forms.TextBox textBoxCaption;
         private System.Windows.Forms.PictureBox pictureBoxMedia;
-        private AxWMPLib.AxWindowsMediaPlayer videoPlayer;
+        private System.Windows.Forms.Button buttonTambahTag;
     }
 }

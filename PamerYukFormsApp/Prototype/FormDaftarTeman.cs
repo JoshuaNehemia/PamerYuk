@@ -13,9 +13,11 @@ namespace PamerYukFormsApp.Prototype
 {
     public partial class FormDaftarTeman : Form
     {
-        public FormDaftarTeman()
+        private bool tag_konten;
+        public FormDaftarTeman(bool konten)
         {
             InitializeComponent();
+            this.tag_konten = konten;
         }
 
         private void FormDaftarTeman_Load(object sender, EventArgs e)
@@ -30,6 +32,15 @@ namespace PamerYukFormsApp.Prototype
                 buttonLihatAkun.Name = "buttonLihatAkun";
                 dataGridViewDaftarTeman.Columns.Add(buttonLihatAkun);
             }
+            if(tag_konten)
+            {
+                DataGridViewButtonColumn buttonTambahTag = new DataGridViewButtonColumn();
+                buttonTambahTag.Text = "Tambah Tag";
+                buttonTambahTag.HeaderText = "Aksi";
+                buttonTambahTag.UseColumnTextForButtonValue = true;
+                buttonTambahTag.Name = "buttonTambahTag";
+                dataGridViewDaftarTeman.Columns.Add(buttonTambahTag);
+            }
         }
 
         private void dataGridViewDaftarTeman_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -42,6 +53,11 @@ namespace PamerYukFormsApp.Prototype
                 FormAkunTeman frm = new FormAkunTeman(new Teman(username, tglBerteman, status));
                 frm.Owner = this;
                 frm.ShowDialog();
+            }
+            if (e.ColumnIndex == dataGridViewDaftarTeman.Columns["buttonTambahAkun"].Index)
+            {
+                string username = dataGridViewDaftarTeman.CurrentRow.Cells["username"].Value.ToString();
+                FormUtama.service.Tambah_Tag(username);
             }
         }
     }

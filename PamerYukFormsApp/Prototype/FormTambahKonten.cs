@@ -25,8 +25,8 @@ namespace PamerYukFormsApp.Prototype
         private void buttonGantiGambar_Click(object sender, EventArgs e)
         {
             pictureBoxMedia.Visible = false;
-            videoPlayer.Visible = false;
-            videoPlayer.Ctlcontrols.stop();
+            //videoPlayer.Visible = false;
+            //videoPlayer.Ctlcontrols.stop();
             fileDialog = new OpenFileDialog();
             if(fileDialog.ShowDialog() == DialogResult.OK )
             {
@@ -43,7 +43,7 @@ namespace PamerYukFormsApp.Prototype
 
                     try
                     {
-                        videoPlayer.URL = fileDialog.FileName;   
+                        //videoPlayer.URL = fileDialog.FileName;   
                         
                     }
                     catch (Exception ex)
@@ -62,8 +62,15 @@ namespace PamerYukFormsApp.Prototype
 
         private void FormTambahKonten_Load(object sender, EventArgs e)
         {
-            videoPlayer.Visible = false;
             pictureBoxMedia.Visible = false;
+        }
+
+
+        private void buttonTambahTag_Click(object sender, EventArgs e)
+        {
+            FormDaftarTeman form = new FormDaftarTeman(true);
+            form.Owner = this;
+            form.ShowDialog();
         }
     }
 }

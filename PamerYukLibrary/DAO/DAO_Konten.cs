@@ -12,7 +12,12 @@ namespace PamerYukLibrary.DAO
     {
         public static void Insert_Konten(Konten newKonten, string username)
         {
-            string command = "INSERT INTO `pameryuk`.`konten` (`id`, `caption`, `foto`,`video`, `tglUpload`, `username`) VALUES ('"+Get_NewKonten_Id()+"', '"+newKonten.Caption+"', '"+newKonten.Foto+"', '"+newKonten.Video+"','"+newKonten.TglUpload.ToString("yyyy-MM-dd HH:mm:ss")+"', '"+username+"');";
+            int konten_id=Get_NewKonten_Id();
+            string command = "INSERT INTO `pameryuk`.`konten` (`id`, `caption`, `foto`,`video`, `tglUpload`, `username`) VALUES ('"+konten_id+"', '"+newKonten.Caption+"', '"+newKonten.Foto+"', '"+newKonten.Video+"','"+newKonten.TglUpload.ToString("yyyy-MM-dd HH:mm:ss")+"', '"+username+"');";
+            foreach(User us in newKonten.Tag) //Add Tag
+            {
+                DAO_Tag.Insert_Tag(konten_id, us.Username);
+            }
             KoneksiDatabase.DatabaseDMLCommand(command);
         }
 

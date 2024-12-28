@@ -102,6 +102,12 @@
     <Compile Include="Prototype\FormMasuk.Designer.cs">
       <DependentUpon>FormMasuk.cs</DependentUpon>
     </Compile>
+    <Compile Include="Prototype\FormPercakapan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Prototype\FormPercakapan.Designer.cs">
+      <DependentUpon>FormPercakapan.cs</DependentUpon>
+    </Compile>
     <Compile Include="Prototype\FormRequestPertemanan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -158,6 +164,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Prototype\FormMasuk.resx">
       <DependentUpon>FormMasuk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prototype\FormPercakapan.resx">
+      <DependentUpon>FormPercakapan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Prototype\FormRequestPertemanan.resx">
       <DependentUpon>FormRequestPertemanan.cs</DependentUpon>

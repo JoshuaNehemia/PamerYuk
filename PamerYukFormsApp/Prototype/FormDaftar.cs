@@ -14,6 +14,7 @@ namespace PamerYukFormsApp.Prototype
 {
     public partial class FormDaftar : Form
     {
+        FileDialog fileDialog;
         public FormDaftar()
         {
             InitializeComponent();
@@ -26,15 +27,16 @@ namespace PamerYukFormsApp.Prototype
             string confirm_password = textBoxKonfirmasi.Text;
             Kota selected_kota = (Kota)comboBoxKota.SelectedItem;
             DateTime tanggalLahir = dateTimePicker1.Value.Date;
-            //Belum pasti
-            string profile_picture = fileDialog.FileName; //untuk sementara ku ga isi picture nya belum belajar buat path file di C#
+            string profile_picture= @"C:\PamerYuk\default_image.jpg";//nanti set default image di Folder yang dicreate
+            if (fileDialog.FileName != null)
+            {
+                profile_picture = fileDialog.FileName;
+            }
             string noKTP = textBoxNoKTP.Text;                                    
 
             if (CheckPassword(password,confirm_password))
             {
-                FormUtama.service.Current_user = FormUtama.service.Daftar(username, password, tanggalLahir, noKTP, profile_picture, selected_kota);
-
-                //FormUtama.service.Current_user = FormUtama.service.Daftar(username, password, tanggalLahir, noKTP, fileDialog, selected_kota);
+                FormUtama.service.Daftar(username, password, tanggalLahir, noKTP, profile_picture, selected_kota);
                 this.Close();
             }
             else
@@ -47,18 +49,7 @@ namespace PamerYukFormsApp.Prototype
         {
             comboBoxKota.DataSource = FormUtama.service.ListKota;
             comboBoxKota.DisplayMember = "Nama";
-        }
-
-        #region METHOD
-        private bool CheckPassword(string pass, string confirm_pass)
-        {
-            return pass == confirm_pass;
-        }
-        #endregion
-
-        //Ini untuk class FileDialognya --> public biar dia gampang dipanggil
-        OpenFileDialog fileDialog;
-        
+        }    
         private void buttonUploadImage_Click(object sender, EventArgs e)
         {            
             try
@@ -84,5 +75,12 @@ namespace PamerYukFormsApp.Prototype
                 MessageBox.Show(ex.Message);
             }
         }
+
+        #region METHOD
+        private bool CheckPassword(string pass, string confirm_pass)
+        {
+            return pass == confirm_pass;
+        }
+        #endregion
     }
 }

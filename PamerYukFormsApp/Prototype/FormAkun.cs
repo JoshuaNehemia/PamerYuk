@@ -25,6 +25,9 @@ namespace PamerYukFormsApp.Prototype
             textBoxNoKTP.Text = FormUtama.service.Current_user.NoKTP;
             textBoxTanggalLahir.Text = FormUtama.service.Current_user.TglLahir.ToString();
             textBoxKota.Text = FormUtama.service.Current_user.Kota.Nama;
+            Image profilePicture = new Bitmap(FormUtama.service.Current_user.Foto);
+            panelFotoProfil.BackgroundImage = profilePicture;
+            panelFotoProfil.BackgroundImageLayout = ImageLayout.Zoom;
             listBoxKisahHidup.DataSource = DisplayKisahHidup();
         }
 
@@ -55,11 +58,6 @@ namespace PamerYukFormsApp.Prototype
                //Update data user
             }
             
-        }
-
-        private void buttonRefresh_Click(object sender, EventArgs e)
-        {
-            FormAkun_Load(sender, e);
         }
     }
 }

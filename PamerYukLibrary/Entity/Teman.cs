@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Drawing;
+using PamerYukLibrary.Entity;
 
 namespace PamerYukLibrary
 {
@@ -12,7 +13,6 @@ namespace PamerYukLibrary
         private string username;
         private DateTime tglBerteman;
         private string status;
-
         public Teman(string username, DateTime tglBerteman, string status)
         {
             this.Username = username;

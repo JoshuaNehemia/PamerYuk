@@ -34,9 +34,7 @@ namespace PamerYukFormsApp.Prototype
                 string deskripsi = textBoxDeskripsi.Text;
                 int tahun_awal = (int)numericUpDownTahunAwal.Value;
                 int tahun_akhir = (int)numericUpDownTahunAkhir.Value;
-                KisahHidup inputKisah = new KisahHidup(selected_organisasi, tahun_awal, tahun_akhir, deskripsi);
-                FormUtama.service.Tambah_KisahHidup(inputKisah);
-
+                FormUtama.service.Tambah_KisahHidup(selected_organisasi, tahun_awal, tahun_akhir, deskripsi);
                 MessageBox.Show("Berhasil membuat kisah hidup");
 
             }
