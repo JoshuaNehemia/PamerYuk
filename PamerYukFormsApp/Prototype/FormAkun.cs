@@ -59,5 +59,10 @@ namespace PamerYukFormsApp.Prototype
             }
             
         }
+
+        private void panelFotoProfil_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

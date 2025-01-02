@@ -35,16 +35,19 @@
             this.panelKonten = new System.Windows.Forms.Panel();
             this.textBoxKomen = new System.Windows.Forms.TextBox();
             this.buttonKirim = new System.Windows.Forms.Button();
+            this.labelLike = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.buttonLike = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listBoxKomentar
             // 
             this.listBoxKomentar.FormattingEnabled = true;
             this.listBoxKomentar.ItemHeight = 31;
-            this.listBoxKomentar.Location = new System.Drawing.Point(795, 113);
+            this.listBoxKomentar.Location = new System.Drawing.Point(795, 115);
             this.listBoxKomentar.Margin = new System.Windows.Forms.Padding(4);
             this.listBoxKomentar.Name = "listBoxKomentar";
-            this.listBoxKomentar.Size = new System.Drawing.Size(1047, 717);
+            this.listBoxKomentar.Size = new System.Drawing.Size(1047, 624);
             this.listBoxKomentar.TabIndex = 74;
             // 
             // labelKomentar
@@ -104,11 +107,44 @@
             this.buttonKirim.UseVisualStyleBackColor = true;
             this.buttonKirim.Click += new System.EventHandler(this.buttonKirim_Click);
             // 
+            // labelLike
+            // 
+            this.labelLike.AutoSize = true;
+            this.labelLike.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.labelLike.Location = new System.Drawing.Point(948, 779);
+            this.labelLike.Name = "labelLike";
+            this.labelLike.Size = new System.Drawing.Size(121, 54);
+            this.labelLike.TabIndex = 77;
+            this.labelLike.Text = "Like ";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
+            this.label1.Location = new System.Drawing.Point(786, 779);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(134, 54);
+            this.label1.TabIndex = 78;
+            this.label1.Text = "Like :";
+            // 
+            // buttonLike
+            // 
+            this.buttonLike.Location = new System.Drawing.Point(1644, 779);
+            this.buttonLike.Name = "buttonLike";
+            this.buttonLike.Size = new System.Drawing.Size(198, 60);
+            this.buttonLike.TabIndex = 79;
+            this.buttonLike.Text = "Like";
+            this.buttonLike.UseVisualStyleBackColor = true;
+            this.buttonLike.Click += new System.EventHandler(this.buttonLike_Click);
+            // 
             // FormKonten
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1888, 992);
+            this.Controls.Add(this.buttonLike);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.labelLike);
             this.Controls.Add(this.buttonKirim);
             this.Controls.Add(this.textBoxKomen);
             this.Controls.Add(this.listBoxKomentar);
@@ -134,5 +170,8 @@
         private System.Windows.Forms.Panel panelKonten;
         private System.Windows.Forms.TextBox textBoxKomen;
         private System.Windows.Forms.Button buttonKirim;
+        private System.Windows.Forms.Label labelLike;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button buttonLike;
     }
 }

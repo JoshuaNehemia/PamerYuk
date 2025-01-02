@@ -35,7 +35,10 @@ namespace PamerYukFormsApp.Prototype
         private void buttonKirim_Click(object sender, EventArgs e)
         {
             string message = textBoxPesan.Text;
-            Chat newChat = new Chat(message, this.temanChat.Username, FormUtama.service.Current_user.Username);
+            Chat newChat = new Chat(message, FormUtama.service.Current_user.Username,this.temanChat.Username);
+            FormUtama.service.Kirim_Chat(newChat);
+            textBoxPesan.Clear();
+            textBoxPesan.Focus();
             FormPercakapan_Load(sender, e);
         }
     }

@@ -38,6 +38,9 @@ namespace PamerYukFormsApp.Prototype
 
         private void buttonChat_Click(object sender, EventArgs e)
         {
+            FormPercakapan form = new FormPercakapan(selectedUser);
+            form.Owner = this;
+            form.ShowDialog();
 
         }
     }

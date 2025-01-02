@@ -54,10 +54,13 @@ namespace PamerYukFormsApp.Prototype
                 frm.Owner = this;
                 frm.ShowDialog();
             }
-            if (e.ColumnIndex == dataGridViewDaftarTeman.Columns["buttonTambahAkun"].Index)
+            if(tag_konten)
             {
-                string username = dataGridViewDaftarTeman.CurrentRow.Cells["username"].Value.ToString();
-                FormUtama.service.Tambah_Tag(username);
+                if (e.ColumnIndex == dataGridViewDaftarTeman.Columns["buttonTambahTag"].Index)
+                {
+                    string username = dataGridViewDaftarTeman.CurrentRow.Cells["username"].Value.ToString();
+                    FormUtama.service.Tambah_Tag(username);
+                }
             }
         }
     }

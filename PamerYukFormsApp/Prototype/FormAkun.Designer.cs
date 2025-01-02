@@ -51,7 +51,7 @@
             // buttonEditProfil
             // 
             this.buttonEditProfil.Location = new System.Drawing.Point(1664, 924);
-            this.buttonEditProfil.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonEditProfil.Margin = new System.Windows.Forms.Padding(4);
             this.buttonEditProfil.Name = "buttonEditProfil";
             this.buttonEditProfil.Size = new System.Drawing.Size(212, 60);
             this.buttonEditProfil.TabIndex = 98;
@@ -64,7 +64,7 @@
             this.listBoxKisahHidup.FormattingEnabled = true;
             this.listBoxKisahHidup.ItemHeight = 31;
             this.listBoxKisahHidup.Location = new System.Drawing.Point(856, 763);
-            this.listBoxKisahHidup.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.listBoxKisahHidup.Margin = new System.Windows.Forms.Padding(4);
             this.listBoxKisahHidup.Name = "listBoxKisahHidup";
             this.listBoxKisahHidup.Size = new System.Drawing.Size(800, 221);
             this.listBoxKisahHidup.TabIndex = 97;
@@ -203,7 +203,7 @@
             // buttonUbah
             // 
             this.buttonUbah.Location = new System.Drawing.Point(108, 539);
-            this.buttonUbah.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.buttonUbah.Margin = new System.Windows.Forms.Padding(4);
             this.buttonUbah.Name = "buttonUbah";
             this.buttonUbah.Size = new System.Drawing.Size(144, 56);
             this.buttonUbah.TabIndex = 83;
@@ -217,6 +217,7 @@
             this.panelFotoProfil.Name = "panelFotoProfil";
             this.panelFotoProfil.Size = new System.Drawing.Size(300, 300);
             this.panelFotoProfil.TabIndex = 82;
+            this.panelFotoProfil.Paint += new System.Windows.Forms.PaintEventHandler(this.panelFotoProfil_Paint);
             // 
             // labelFormAkun
             // 

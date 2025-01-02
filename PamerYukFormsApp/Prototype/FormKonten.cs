@@ -33,9 +33,18 @@ namespace PamerYukFormsApp.Prototype
                     panelKonten.BackgroundImageLayout = ImageLayout.Zoom;
                 }
             }
+            labelLike.Text = this.selectedKonten.Like.ToString();
             listBoxDeskripsi.Items.Clear();
             listBoxDeskripsi.Items.Add(this.selectedKonten.Caption);
             listBoxKomentar.DataSource = selectedKonten.Comment;
+            if (!FormUtama.service.Check_Like(this.selectedKonten.Id))
+            {
+                buttonLike.Text = "Like";
+            }
+            else
+            {
+                buttonLike.Text = "Unlike";
+            }
         }
 
         private void buttonKirim_Click(object sender, EventArgs e)
@@ -49,6 +58,23 @@ namespace PamerYukFormsApp.Prototype
         private void panelKonten_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void buttonLike_Click(object sender, EventArgs e)
+        {
+            if (FormUtama.service.Check_Like(this.selectedKonten.Id))
+            {
+                //Unlike
+                buttonLike.Text = "Like";
+                this.selectedKonten = FormUtama.service.Delete_Like(this.selectedKonten.Id);
+            }
+            else
+            {
+                //Like
+                buttonLike.Text = "Unlike";
+                this.selectedKonten = FormUtama.service.Tambah_Like(this.selectedKonten.Id);
+            }
+            FormKonten_Load(sender, e);
         }
     }
 }

@@ -113,6 +113,7 @@ namespace PamerYukFormsApp
         public void Terima_Pertemanan(string username)
         {
             DAO_Teman.Update_RequestPertemanan(username, this.Current_user.Username, "Berteman");
+            this.ListTeman = DAO_Teman.Select_ListTeman(this.Current_user.Username);
         }
 
         public void Tolak_Pertemanan(string username)
@@ -160,7 +161,7 @@ namespace PamerYukFormsApp
         public void Tambah_Konten(string caption, OpenFileDialog fdialog)
         {
             List<User> tags = new List<User>();
-            tags = Pindah_Tag();
+            //tags = Pindah_Tag();
             Konten newKonten;
             string newPath = "";
             if (Path.GetExtension(fdialog.FileName) == ".jpg")
@@ -176,6 +177,23 @@ namespace PamerYukFormsApp
             File.Copy(fdialog.FileName, Path.Combine(this.MediafilePath, newPath));
             DAO_Konten.Insert_Konten(newKonten, this.Current_user.Username);
             this.Current_user.ListKonten = DAO_Konten.Select_ListKonten(this.current_user.Username);
+        }
+
+        public bool Check_Like(int konten_id)
+        {
+            return DAO_Like.CheckLike(konten_id,this.Current_user.Username);
+        }
+
+        public Konten Tambah_Like(int konten_id)
+        {
+            DAO_Like.Insert_Like(konten_id , this.Current_user.Username);
+            return DAO_Konten.Select_Konten(konten_id);
+        }
+
+        public Konten Delete_Like(int konten_id)
+        {
+            DAO_Like.DELETE_Like(konten_id, this.Current_user.Username);
+            return DAO_Konten.Select_Konten(konten_id);
         }
         #endregion
 

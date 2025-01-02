@@ -15,7 +15,7 @@ namespace PamerYukLibrary.DAO
         public static List<Chat> Select_Chat(string friend, string user)
         {
             //usn2 is current user
-            string perintah = "SELECT * FROM chat  WHERE pengirim = '" + friend + "' and penerima ='" + user + "' UNION SELECT * FROM chat  WHERE pengirim = '" + user + "' and penerima ='" + friend + "';";
+            string perintah = "SELECT * FROM chat  WHERE pengirim = '" + friend + "' and penerima ='" + user + "' UNION SELECT * FROM chat  WHERE pengirim = '" + user + "' and penerima ='" + friend + "' order by id asc;";
             MySqlDataReader dr = KoneksiDatabase.DatabaseQueryCommand(perintah);
             List<Chat> listChat = new List<Chat>();
             while (dr.Read())
@@ -33,7 +33,7 @@ namespace PamerYukLibrary.DAO
 
         public static void Insert_Chat(Chat chat)
         {
-            string command = "INSERT INTO `pameryuk`.`chat` (`id`, `pesan`,'tglTerkirim', `pengirim`,`penerima`) VALUES ('" + Get_NewChat_Id() + "', '" + chat.Pesan + "','" + DateTime.Now.Date.ToString("yyyy-MM-dd HH:mm:ss") + "','" + chat.Pengirim + "','" + chat.Penerima +"';";
+            string command = "INSERT INTO `pameryuk`.`chat` (`id`, `pesan`,`tglTerkirim`, `pengirim`,`penerima`) VALUES ('" + Get_NewChat_Id() + "', '" + chat.Pesan + "','" + DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss") + "','" + chat.Pengirim + "','" + chat.Penerima +"');";
             KoneksiDatabase.DatabaseDMLCommand(command);
         }
 

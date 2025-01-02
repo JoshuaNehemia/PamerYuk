@@ -14,10 +14,7 @@ namespace PamerYukLibrary.DAO
         {
             int konten_id=Get_NewKonten_Id();
             string command = "INSERT INTO `pameryuk`.`konten` (`id`, `caption`, `foto`,`video`, `tglUpload`, `username`) VALUES ('"+konten_id+"', '"+newKonten.Caption+"', '"+newKonten.Foto+"', '"+newKonten.Video+"','"+newKonten.TglUpload.ToString("yyyy-MM-dd HH:mm:ss")+"', '"+username+"');";
-            foreach(User us in newKonten.Tag) //Add Tag
-            {
-                DAO_Tag.Insert_Tag(konten_id, us.Username);
-            }
+
             KoneksiDatabase.DatabaseDMLCommand(command);
         }
 
@@ -70,7 +67,7 @@ namespace PamerYukLibrary.DAO
         {
             string command = "select id from konten order by id desc limit 1;";
             MySqlDataReader dr = KoneksiDatabase.DatabaseQueryCommand(command);
-            int newId=-1;
+            int newId=0;
             if(dr.Read())
             {
                 newId = int.Parse(dr.GetValue(0).ToString());

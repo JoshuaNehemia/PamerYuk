@@ -38,7 +38,7 @@ namespace PamerYukLibrary.Entity
 
         public override string ToString()
         {
-            return "[" + this.TglTerkirim.Date.ToString() + "] " +this.Pengirim + " -> " + this.Pesan + " ["+this.TglTerkirim.TimeOfDay.ToString() +"] "+ "\n";
+            return "[" + this.TglTerkirim.ToString() + "] " + this.Pengirim + " : " + this.Pesan + "\n";
         }
     }
 }

@@ -45,7 +45,7 @@ namespace PamerYukLibrary.DAO
 
         public static void Insert_RequestPertemanan(string username1, string username2)
         {
-            string command = "INSERT INTO `pameryuk`.`teman` (`username1`, `username2`,'tglberteman', `statusPertemanan`) VALUES ('"+username1+"', '"+username2+"','"+ DateTime.Now.Date.ToString("yyyy-MM-dd") + "','Menunggu');";
+            string command = "INSERT INTO `pameryuk`.`teman` (`username1`, `username2`,`tglberteman`, `statusPertemanan`) VALUES ('"+username1+"', '"+username2+"','"+ DateTime.Now.Date.ToString("yyyy-MM-dd") + "','Menunggu');";
             KoneksiDatabase.DatabaseDMLCommand(command);
         }
 
