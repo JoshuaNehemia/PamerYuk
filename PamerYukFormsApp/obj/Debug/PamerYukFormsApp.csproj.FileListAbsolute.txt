@@ -60,6 +60,7 @@ E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\Pam
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYuk.DC7583D1.Up2Date
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.exe
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.pdb
+<<<<<<< HEAD
 C:\Users\joshu\source\repos\PamerYukFormsApp\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype.FormPercakapan.resources
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype.FormPercakapan.resources
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype2.MainForm.resources
@@ -70,3 +71,7 @@ E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\Pam
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype2.User_Control.UC_Home.resources
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype2.User_Control.UC_Chat.resources
 E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype2.User_Control.UC_TambahKonten.resources
+=======
+E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype.FormPercakapan.resources
+E:\UBAYA\Semester 3\Database\PROJECT UAS\PamerYuk\PamerYukFormsApp\obj\Debug\PamerYukFormsApp.Prototype.FormDetailPercakapan.resources
+>>>>>>> b1bce7c74e8d3e9558e2fd88c8fef5a15d5535a0

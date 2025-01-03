@@ -61,6 +61,11 @@ namespace PamerYukLibrary
         #endregion
 
         #region METHOD
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
         #endregion
     }
 }
