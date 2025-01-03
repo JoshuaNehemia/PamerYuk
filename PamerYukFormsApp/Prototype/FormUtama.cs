@@ -23,9 +23,9 @@ namespace PamerYukFormsApp
         }
 
         private void FormUtama_Load(object sender, EventArgs e)
-        {
-
+        {            
             this.IsMdiContainer = true;
+            this.Visible = false;
             try
             {
                 KoneksiDatabase connectToDatabase = new KoneksiDatabase(PamerYuk.Default.Server, PamerYuk.Default.Database, PamerYuk.Default.User, PamerYuk.Default.Password);
@@ -36,6 +36,7 @@ namespace PamerYukFormsApp
                 MessageBox.Show("Koneksi ke Database Gagal : \n" + ex.Message);
             }
             FormMasuk formMasuk = new FormMasuk();
+            
             formMasuk.Owner = this;
             formMasuk.ShowDialog();
             if (service.Current_user == null) //If user not logged in
