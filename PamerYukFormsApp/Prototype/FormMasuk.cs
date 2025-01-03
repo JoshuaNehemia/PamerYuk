@@ -23,9 +23,9 @@ namespace PamerYukFormsApp.Prototype
 
         private void FormMasuk_Load(object sender, EventArgs e)
         {
-            formUtama = (FormUtama)this.Owner;
+            formUtama = (FormUtama)this.Owner;                               
         }
-
+                
         private void buttonDaftar_Click(object sender, EventArgs e)
         {
             FormDaftar formDaftar = new FormDaftar();
@@ -35,7 +35,7 @@ namespace PamerYukFormsApp.Prototype
             {
                 textBoxUsername.Text = FormUtama.service.Current_user.Username;
             }
-        }
+        }             
 
         private void buttonMasuk_Click(object sender, EventArgs e)
         {
@@ -46,6 +46,7 @@ namespace PamerYukFormsApp.Prototype
                 Console.WriteLine(username + ":" + password);
                 FormUtama.service.LogIn(username, password);
                 this.Close();
+                formUtama.Visible = true;
             }
             catch (Exception ex)
             {

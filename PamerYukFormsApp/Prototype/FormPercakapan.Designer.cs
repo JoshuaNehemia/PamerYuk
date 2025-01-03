@@ -29,63 +29,57 @@
         private void InitializeComponent()
         {
             this.labelTeman = new System.Windows.Forms.Label();
+            this.dataGridViewDaftarTeman = new System.Windows.Forms.DataGridView();
             this.listBoxListChat = new System.Windows.Forms.ListBox();
-            this.textBoxPesan = new System.Windows.Forms.TextBox();
-            this.buttonKirim = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDaftarTeman)).BeginInit();
             this.SuspendLayout();
             // 
             // labelTeman
             // 
             this.labelTeman.AutoSize = true;
             this.labelTeman.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F);
-            this.labelTeman.Location = new System.Drawing.Point(34, 35);
+            this.labelTeman.Location = new System.Drawing.Point(19, 23);
+            this.labelTeman.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelTeman.Name = "labelTeman";
-            this.labelTeman.Size = new System.Drawing.Size(316, 69);
+            this.labelTeman.Size = new System.Drawing.Size(189, 40);
             this.labelTeman.TabIndex = 0;
             this.labelTeman.Text = "labelNama";
+            // 
+            // dataGridViewDaftarTeman
+            // 
+            this.dataGridViewDaftarTeman.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewDaftarTeman.Location = new System.Drawing.Point(26, 86);
+            this.dataGridViewDaftarTeman.Name = "dataGridViewDaftarTeman";
+            this.dataGridViewDaftarTeman.RowHeadersWidth = 62;
+            this.dataGridViewDaftarTeman.RowTemplate.Height = 28;
+            this.dataGridViewDaftarTeman.Size = new System.Drawing.Size(1016, 453);
+            this.dataGridViewDaftarTeman.TabIndex = 4;
+            this.dataGridViewDaftarTeman.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewDaftarTeman_CellContentClick);
             // 
             // listBoxListChat
             // 
             this.listBoxListChat.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.listBoxListChat.FormattingEnabled = true;
-            this.listBoxListChat.ItemHeight = 46;
-            this.listBoxListChat.Location = new System.Drawing.Point(46, 131);
+            this.listBoxListChat.ItemHeight = 29;
+            this.listBoxListChat.Location = new System.Drawing.Point(26, 572);
+            this.listBoxListChat.Margin = new System.Windows.Forms.Padding(2);
             this.listBoxListChat.Name = "listBoxListChat";
-            this.listBoxListChat.Size = new System.Drawing.Size(1807, 648);
+            this.listBoxListChat.Size = new System.Drawing.Size(1018, 33);
             this.listBoxListChat.TabIndex = 1;
-            // 
-            // textBoxPesan
-            // 
-            this.textBoxPesan.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.textBoxPesan.Location = new System.Drawing.Point(46, 812);
-            this.textBoxPesan.Multiline = true;
-            this.textBoxPesan.Name = "textBoxPesan";
-            this.textBoxPesan.Size = new System.Drawing.Size(1488, 96);
-            this.textBoxPesan.TabIndex = 2;
-            // 
-            // buttonKirim
-            // 
-            this.buttonKirim.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.buttonKirim.Location = new System.Drawing.Point(1558, 812);
-            this.buttonKirim.Name = "buttonKirim";
-            this.buttonKirim.Size = new System.Drawing.Size(295, 96);
-            this.buttonKirim.TabIndex = 3;
-            this.buttonKirim.Text = "Kirim";
-            this.buttonKirim.UseVisualStyleBackColor = true;
-            this.buttonKirim.Click += new System.EventHandler(this.buttonKirim_Click);
             // 
             // FormPercakapan
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1888, 992);
-            this.Controls.Add(this.buttonKirim);
-            this.Controls.Add(this.textBoxPesan);
+            this.ClientSize = new System.Drawing.Size(1062, 640);
+            this.Controls.Add(this.dataGridViewDaftarTeman);
             this.Controls.Add(this.listBoxListChat);
             this.Controls.Add(this.labelTeman);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormPercakapan";
             this.Text = "FormPercakapan";
             this.Load += new System.EventHandler(this.FormPercakapan_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDaftarTeman)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -94,8 +88,7 @@
         #endregion
 
         private System.Windows.Forms.Label labelTeman;
+        private System.Windows.Forms.DataGridView dataGridViewDaftarTeman;
         private System.Windows.Forms.ListBox listBoxListChat;
-        private System.Windows.Forms.TextBox textBoxPesan;
-        private System.Windows.Forms.Button buttonKirim;
     }
 }

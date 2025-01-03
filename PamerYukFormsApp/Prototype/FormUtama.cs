@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using PamerYukFormsApp.Prototype;
+using PamerYukLibrary;
+
 
 //PamerYuk Library
 using PamerYukLibrary.Database;
@@ -23,9 +25,9 @@ namespace PamerYukFormsApp
         }
 
         private void FormUtama_Load(object sender, EventArgs e)
-        {
-
+        {            
             this.IsMdiContainer = true;
+            this.Visible = false;
             try
             {
                 KoneksiDatabase connectToDatabase = new KoneksiDatabase(PamerYuk.Default.Server, PamerYuk.Default.Database, PamerYuk.Default.User, PamerYuk.Default.Password);
@@ -36,6 +38,7 @@ namespace PamerYukFormsApp
                 MessageBox.Show("Koneksi ke Database Gagal : \n" + ex.Message);
             }
             FormMasuk formMasuk = new FormMasuk();
+            
             formMasuk.Owner = this;
             formMasuk.ShowDialog();
             if (service.Current_user == null) //If user not logged in
@@ -170,6 +173,22 @@ namespace PamerYukFormsApp
             if (f == null)
             {
                 FormRequestPertemanan frm = new FormRequestPertemanan();
+                frm.MdiParent = this;
+                frm.Show();
+            }
+            else
+            {
+                f.BringToFront();
+                f.MaximizeBox = true;
+            }
+        }
+
+        private void percakapanSayaToolStripMenuItem_Click(object sender, EventArgs e)
+        {            
+            Form f = Application.OpenForms["FormPercakapan"];
+            if (f == null)
+            {
+                FormPercakapan frm = new FormPercakapan(service.Current_user);
                 frm.MdiParent = this;
                 frm.Show();
             }
