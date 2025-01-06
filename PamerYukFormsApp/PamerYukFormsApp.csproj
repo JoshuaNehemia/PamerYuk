@@ -132,12 +132,6 @@
     <Compile Include="Prototype\FormDaftarTeman.Designer.cs">
       <DependentUpon>FormDaftarTeman.cs</DependentUpon>
     </Compile>
-    <Compile Include="Prototype\FormDetailPercakapan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Prototype\FormDetailPercakapan.Designer.cs">
-      <DependentUpon>FormDetailPercakapan.cs</DependentUpon>
-    </Compile>
     <Compile Include="Prototype\FormKisahHidup.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -233,9 +227,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Prototype\FormDaftarTeman.resx">
       <DependentUpon>FormDaftarTeman.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Prototype\FormDetailPercakapan.resx">
-      <DependentUpon>FormDetailPercakapan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Prototype\FormKisahHidup.resx">
       <DependentUpon>FormKisahHidup.cs</DependentUpon>

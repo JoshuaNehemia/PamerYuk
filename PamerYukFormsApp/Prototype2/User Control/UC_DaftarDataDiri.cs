@@ -62,8 +62,6 @@ namespace PamerYukFormsApp.Prototype2.User_Control
             mainForm.FormBorderStyle = FormBorderStyle.Sizable;
             mainForm.MaximizeBox = true;
             mainForm.MinimizeBox = true;            
-
-            
         }
 
         private void buttonUploadImage_Click(object sender, EventArgs e)
